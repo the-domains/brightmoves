@@ -1,14 +1,34 @@
+name: 'bright moves '
+favicon: null
+layout_spectrum: 0.99478
 typography_spectrum: 0.9455084579531103
-color:
-  brandStrength: 0.554220502031967
-  lightness: 0.7471560495905578
-  saturation: 0.2057812293060124
-  rhythmicContrast: 0.41949053504504263
-layout_spectrum: 0.97582539007999
 author:
   name: Helgi
   email: helgi.maki@gmail.com
   url: thegrid.ai/brightmoves
-name: 'bright moves '
 title: bright moves for your bodymind
 description: move. meditate. expand. change. heal.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#281e1d'
+    - '#fbffff'
+    - '#ff593e'
+    - '#4b68e0'
+    - '#0cfcf9'
+  brandStrength: 0.625
+  lightness: 0.7471560495905578
+  saturation: 0.2057812293060124
+  rhythmicContrast: 0.41949053504504263
+purpose: []
